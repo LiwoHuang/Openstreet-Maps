@@ -1,6 +1,6 @@
 # Openstreet-Maps
 # About
-This is a simple open street maps application
+The user has the option to add or remove elements from the queue, as well as the option to view the number and display of elements in the queue.
 # Tech Stack
 C,Git and Replite
 # Authorship
