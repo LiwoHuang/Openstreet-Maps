@@ -1,6 +1,8 @@
 # Openstreet-Maps
 # About
-The user has the option to add or remove elements from the queue, as well as the option to view the number and display of elements in the queue.
+Implemented a basic graph class using adjacency matrix representation, capable of holding at most 100 vertices. The class provides methods to add and retrieve vertices and edges, as well as to obtain the number of vertices and edges in the graph. It also includes methods to retrieve the weight of a given edge and to obtain the set of neighbors for a given vertex. Additionally, it provides a method to dump the internal state of the graph for debugging purposes.
+
+The implementation leverages several C++ features, such as templates, the STL containers, and algorithms. The graph class uses an unordered_map to store the adjacency lists for each vertex, and the vertices are stored in a vector.
 # Tech Stack
 C,Git and Replite
 # Authorship
